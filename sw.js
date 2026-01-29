@@ -1,6 +1,6 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'Basc_v2',
+const CACHE_NAME = 'Basc_v5',
   urlsToCache = [
     './',
     'dist/css/bootstrap.css',
