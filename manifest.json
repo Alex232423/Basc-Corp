@@ -3,7 +3,7 @@
   "short_name": "ANDO'S Y POLLO VAQUERO",
   "description": "RESTAURANTE DE COMIDA RAPIDA",
   "background_color": "#ffff03",
-  "theme_color": "#000000",
+  "theme_color": "#ffff03",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
