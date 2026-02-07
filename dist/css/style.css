@@ -31,7 +31,14 @@ min-height:auto !important;
 
 }
 
-
+.fondo {
+  background-image: url("./dist/imagen/FONDO.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+  margin: 0;
+}
 
 
 
