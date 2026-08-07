@@ -1,8 +1,8 @@
 {
-  "name": "JANDO'S Y POLLO VAQUERO",
-  "short_name": "ANDO'S Y POLLO VAQUERO",
+  "name": "JANDO'S RESTAURANTE",
+  "short_name": "COMIDA RAPIDA JANDOS",
   "description": "RESTAURANTE DE COMIDA RAPIDA",
-  "background_color": "#ffff03",
+  "background_color": "#000",
   "theme_color": "#000000",
   "orientation": "portrait",
   "display": "standalone",
